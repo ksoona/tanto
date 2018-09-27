@@ -177,3 +177,7 @@ Pin-Priority: 999
 Package: *
 Pin: release o=Kali,n=kali-rolling
 Pin-Priority: 990
+
+Package: xorg-video-abi-24
+Pin: release o=Debian,n=sid
+Pin-Priority: 999
