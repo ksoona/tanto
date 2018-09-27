@@ -1,4 +1,5 @@
 # v0.2 Build Fixes
+perlapi
 tails-perl5lib
 libfunction-parameters-perl
 xserver-xorg-video-ati
@@ -7,6 +8,7 @@ xserver-xorg-video-nouveau
 xserver-xorg-video-vesa
 xserver-xorg-video-vmware
 xserver-xorg-core
+xorg-video-abi-24
 
 # a e s t h e t i c s
 gnome-shell-extension-system-monitor
