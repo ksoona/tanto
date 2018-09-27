@@ -6,7 +6,7 @@ xserver-xorg-video-fbdev
 xserver-xorg-video-nouveau
 xserver-xorg-video-vesa
 xserver-xorg-video-vmware
-xorg-video-abi-24
+xserver-xorg-core
 
 # a e s t h e t i c s
 gnome-shell-extension-system-monitor
