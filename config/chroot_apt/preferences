@@ -178,6 +178,10 @@ Package: *
 Pin: release o=Kali,n=kali-rolling
 Pin-Priority: 990
 
-Package: xorg-video-abi-23 xorg-video-abi-24 xserver-xorg-core xserver-common
+Package: xorg-video-abi-24 xserver-xorg-core xserver-common
 Pin: release o=Debian,n=sid
 Pin-Priority: 999
+
+Package: perlapi
+Pin: release o=Debian,n=stretch-backports
+Pin-Priority:999

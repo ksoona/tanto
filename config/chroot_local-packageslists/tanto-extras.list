@@ -1,7 +1,6 @@
 # v0.2 Build Fixes
 tails-perl5lib
 libfunction-parameters-perl
-libperl-apireference-perl
 xserver-xorg-video-ati
 xserver-xorg-video-fbdev
 xserver-xorg-video-nouveau
