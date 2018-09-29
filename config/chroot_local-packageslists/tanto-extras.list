@@ -8,7 +8,6 @@ xserver-xorg-video-nouveau
 xserver-xorg-video-vesa
 xserver-xorg-video-vmware
 xserver-xorg-core
-xorg-video-abi-23
 xorg-video-abi-24
 
 # a e s t h e t i c s
