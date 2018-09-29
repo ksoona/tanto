@@ -178,6 +178,6 @@ Package: *
 Pin: release o=Kali,n=kali-rolling
 Pin-Priority: 990
 
-Package: xorg-video-abi-24 xserver-xorg-core xserver-common
+Package: xorg-video-abi-24 xserver-xorg-core xserver-common libgdk-pixbuf2.0-0
 Pin: release o=Debian,n=sid
 Pin-Priority: 999
