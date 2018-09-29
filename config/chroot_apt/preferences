@@ -183,5 +183,5 @@ Pin: release o=Debian,n=sid
 Pin-Priority: 999
 
 Package: perlapi
-Pin: release o=Debian,n=stretch
+Pin: release o=Debian,n=stretch-backports
 Pin-Priority:999
