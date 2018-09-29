@@ -41,7 +41,7 @@ Pin: release o=Debian,n=stretch-backports
 Pin-Priority: 990
 
 Package: libfunction-parameters-perl
-Pin: release o=Debian,n=stretch-backports
+Pin: release o=Debian,n=sid
 Pin-Priority: 999
 
 Package: linux-compiler-* linux-headers-* linux-image-* linux-kbuild-* linux-source-*
@@ -178,6 +178,6 @@ Package: *
 Pin: release o=Kali,n=kali-rolling
 Pin-Priority: 990
 
-Package: xorg-video-abi-24 xserver-xorg-core xserver-common libfunction-parameters-perl
+Package: xorg-video-abi-24 xserver-xorg-core xserver-common
 Pin: release o=Debian,n=sid
 Pin-Priority: 999
