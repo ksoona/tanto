@@ -124,7 +124,7 @@ grub-efi-ia32
 gstreamer1.0-libav
 # Needed for audio in DVD playback
 gstreamer1.0-plugins-ugly
-gtk2-engines-pixbuf
+#gtk2-engines-pixbuf # commented out for tanto branch
 gvfs-backends
 hardlink
 haveged
