@@ -182,6 +182,6 @@ Package: xorg-video-abi-24 xserver-xorg-core xserver-common
 Pin: release o=Debian,n=sid
 Pin-Priority: 999
 
-Package: perlapi
+Package: perlapi perl-base
 Pin: release o=Debian,n=stretch-backports
 Pin-Priority:999
