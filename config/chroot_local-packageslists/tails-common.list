@@ -164,7 +164,7 @@ network-manager
 network-manager-gnome
 ntfs-3g
 obfs4proxy
-onionshare
+#onionshare #this makes the tanto branch build fail
 libreoffice-calc
 libreoffice-draw
 libreoffice-gnome
